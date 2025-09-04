@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Bookmark & Notes",
+  "description": "An application to bookmark specific timestamps in YouTube videos and add personal notes to each bookmark for quick navigation and reference.",
+  "requestFramePermissions": []
+}
